@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice_Scrollview_Project</string>
+<string name="textabout">"Hello! This is Shariar Rahman Ridhoy.
+I completed my  Secondary School Certificate (SSC) from AK High School and College, Dhaka, in 2017. Following that, I successfully completed my Higher Secondary Certificate (HSC) from Amritalal Dey College, Barishal, in 2019. As a passionate and ambitious student, I'm pursuing a Bachelor of Science in Computer Science and Engineering at Daffodil International University.
+My true passion lies in programming and software development. I have a deep affection for coding with Java and have also gained proficiency in C++. I find joy in solving complex problems and creating efficient algorithms. Additionally, I am constantly exploring new technologies and staying up-to-date with the latest advancements in the field.
+My ultimate goal is to become an expert Android Developer. I am fascinated by the world of mobile applications and the impact they have on people's lives. With a keen eye for detail and a drive for innovation, I aim to create user-friendly and impactful applications that make a difference.
+While pursuing my degree, I have actively engaged in various coding competitions and coding clubs. These experiences have enhanced my problem-solving abilities, teamwork skills, and time management.
+As an individual, I am highly motivated, dedicated, and always eager to learn. I thrive in a collaborative environment and am constantly seeking opportunities to expand my knowledge and skills. I am confident that my strong foundation in computer science, coupled with my enthusiasm for Android development, will enable me to excel as an Android Developer.
+Thank you"
+</string>
+</resources>
